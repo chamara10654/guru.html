@@ -1,0 +1,2 @@
+# guru.html
+learn  hard
